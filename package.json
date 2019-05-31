@@ -1,0 +1,25 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milangahatraj/movie.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "Milan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milangahatraj/movie/issues"
+  },
+  "homepage": "https://github.com/milangahatraj/movie#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
